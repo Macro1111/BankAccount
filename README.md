@@ -2,7 +2,7 @@
 
 This Java program manages a simple bank account. It fulfills the following requirements:
 
-## 📝 Problem Description
+## Problem Description
 
 Develop a Java program to manage a bank account. The account contains:
 - The owner's name.
@@ -15,7 +15,7 @@ The user can:
 
 Every transaction displays a message showing the current amount in the account after the operation.
 
-## 🚀 Features
+##  Features
 
 ✅ Stores the account owner’s name and balance.  
 ✅ Allows depositing valid positive amounts.  
